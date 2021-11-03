@@ -1,0 +1,23 @@
+.SearchForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.SearchForm div {
+  display: flex;
+  justify-content: center;
+  /* padding: 10 px; */
+}
+
+.SearchForm #search {
+  height: 25px;
+
+  width: 80%;
+}
+
+.SearchForm button {
+  background-color: darkgreen;
+  color: white;
+  padding: 5px;
+  flex: 1;
+}

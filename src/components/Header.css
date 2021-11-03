@@ -1,0 +1,14 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.Header p {
+  font-size: 20px;
+}
+
+.Header span {
+  color: darkgreen;
+  font-weight: bolder;
+}

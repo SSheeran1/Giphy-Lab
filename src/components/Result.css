@@ -1,0 +1,11 @@
+.Result {
+  list-style-type: none;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.Result .link {
+  display: flex;
+  justify-content: flex-end;
+}
